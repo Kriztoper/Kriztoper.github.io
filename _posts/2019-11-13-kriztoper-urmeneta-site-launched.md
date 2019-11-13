@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kriztoper Urmeneta's Site Launch"
+title: "Kriztoper Urmeneta's Site Launched"
 date: 2019-11-13
 ---
 
