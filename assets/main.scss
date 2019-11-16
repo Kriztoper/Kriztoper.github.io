@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  background-color: #424242;
+}
+
+.site-title, .site-title:visited {
+  color: #fdfdfd;
+}
+
+.site-nav .page-link {
+  color: #fdfdfd;
+}
+
+.footer-col-wrapper {
+  text-align: center;
+}
+
+.contact-list,
+.social-media-list {
+  display: ruby;
+}
+
+.svg-icon {
+  padding-right: 10px;
+  vertical-align: middle;
+}

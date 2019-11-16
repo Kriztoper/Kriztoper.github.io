@@ -49,3 +49,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    rss: rss
+    github: Kriztoper
+    linkedin: Kriztoper-Urmeneta
