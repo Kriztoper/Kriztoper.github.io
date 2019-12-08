@@ -55,3 +55,5 @@ minima:
     rss: rss
     github: Kriztoper
     linkedin: Kriztoper-Urmeneta
+
+permalink: pretty
