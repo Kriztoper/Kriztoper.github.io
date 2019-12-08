@@ -56,4 +56,4 @@ minima:
     github: Kriztoper
     linkedin: Kriztoper-Urmeneta
 
-permalink: pretty
+permalink: /:categories/:year/:month/:day/:title/
