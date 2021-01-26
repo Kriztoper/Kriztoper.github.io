@@ -4,7 +4,7 @@ title: Certificates
 permalink: /certificates/
 ---
 
-![Combined Spring and JPA Hibernate Training Certificate](/assets/img/Kriztoper-Urmeneta-Combined-Spring-and-JPA-Hibernate-Training-Certificate.png "Combined Spring and JPA Hibernate Training Certificate")
+![Combined Spring and JPA Hibernate Training Certificate](/assets/img/OnB-CSJHT-certificate.png "Combined Spring and JPA Hibernate Training Certificate")
 
 ![Secure Software Design](/assets/img/Secure-Software-Design-1.png "Secure Software Design")
 
