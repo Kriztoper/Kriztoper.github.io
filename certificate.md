@@ -41,3 +41,5 @@ permalink: /certificates/
 ![Introduction to Applied Machine Learning](/assets/img/Introduction-to-Applied-Machine-Learning-1.png "Introduction to Applied Machine Learning")
 
 ![An Introduction to Practical Deep Learning](/assets/img/An-Introduction-to-Practical-Deep-Learning-1.png "An Introduction to Practical Deep Learning")
+
+![Building Your First App with Spring Boot and Angular](/assets/img/Building-Your-First-App-with-Spring-Boot-and-Angular-Certificate-Kriztoper-Urmeneta.png "Building Your First App with Spring Boot and Angular")
